@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Congratulations!</h1>
+        <h1>Successfully completed the course <br><font color=red>DevOps program</font> <br><font color=red>EPAM University!</font> <br><font color=green>CONGRATULATIONS!</font></h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
@@ -39,11 +39,10 @@ else
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
         </ul>
 
-        <h2>AWS SDK for PHP</h2>
+        <h2>Foto Viktor Kosheliuk <br><font color=green>Junior DevOps</font></h2>
         <ul>
-            <li><a href="http://aws.amazon.com/sdkforphp">AWS SDK for PHP home</a></li>
-            <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
-            <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
+            <IMG SRC="https://github.com/VKosheliuk/exampl/blob/main/templates/Foto_1.jpg?raw=true" WIDTH = 300> 
+            
         </ul>
     </section>
 
