@@ -24,9 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Successfully completed the course <br><font color=red>DevOps program</font> <br><font color=red>EPAM University!</font> <br><font color=green>CONGRATULATIONS!</font></h1>
-        <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
-        <p>You are running PHP version <?= phpversion() ?></p>
-        <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
+        <p>This Environment is launched with Elastic Beanstalk PHP Platform</p>
     </section>
 
     <section class="instructions">
