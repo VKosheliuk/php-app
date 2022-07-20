@@ -37,7 +37,7 @@ else
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/customize-containers-resources.html">Customizing Environment Resources</a></li>
         </ul>
 
-        <h2>Foto Viktor Kosheliuk <br><font color=green>Junior DevOps</font></h2>
+        <h2>Viktor Kosheliuk <br><font color=green>Junior DevOps</font></h2>
         <ul>
             <IMG SRC="https://github.com/VKosheliuk/exampl/blob/main/templates/Foto_1.jpg?raw=true" WIDTH = 300> 
             
